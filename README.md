@@ -1,0 +1,9 @@
+baseObject: 存放元素的操作方法
+common: 存放一些公共的方法
+log: 存放运行日志
+pageObject: 存放页面对象
+report: 测试报告存放处
+testCase: 测试用例
+config.ini: 配置文件
+conftest.py: pytest配置文件
+run_case.py: 运行所有的测试用例
